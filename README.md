@@ -19,5 +19,5 @@ python3 generate_buffer.py --env_name LunarLanderContinuous-v2 --seed 31 --actor
 ```
 ```
 #train BCQ agent
-python3 main.py --env_name LunarLanderContinuous-v2 --seed 31
+python3 main.py --env_name LunarLanderContinuous-v2 --seed 31 ss
 ```
